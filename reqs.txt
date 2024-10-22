@@ -1,0 +1,15 @@
+mysql-connector-python 
+numpy                  
+opencv-python          
+pillow                 
+pip                    
+pydicom                
+pylibjpeg              
+pylibjpeg-openjpeg     
+PySide6                
+PySide6_Addons         
+PySide6_Essentials     
+python-gdcm            
+setuptools             
+shiboken6              
+wheel                  
